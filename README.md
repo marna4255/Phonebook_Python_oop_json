@@ -11,28 +11,28 @@
 <p>1. Install Python:
     If you don't have Python installed, download and install the latest version of Python 3 from the official website: https://www.python.org/downloads/</p>
 
-<p>2.Install colorama:
+<p>2. Install colorama:
     Open your terminal/command prompt.
     Run the following command to install colorama using pip:</p>
 
-   <p>copy code: pip install colorama</p>
+   <h3>copy code: pip install colorama</h3>
 
-<p>3.Clone the repository or download the files:
+<p>3. Clone the repository or download the files:
   Clone this repository to your local machine using Git:</p>
 
-    <p>copy code: git clone https://github.com/marna4255/Phonebook_Python_oop_json.git</p>
+    copy code: git clone https://github.com/marna4255/Phonebook_Python_oop_json.git
 
   <p>Alternatively, you can download the ZIP file from the "Code" button on the repository's GitHub page and extract it to your desired location.</p>
 
 
-<p>4.Navigate to the project directory:</p>
+<p>4. Navigate to the project directory:</p>
 
-  <p>copy code: cd contact-manager</p>
+  <h3>copy code: cd contact-manager</h3>
 
 
 <p>5.Run the Contact Manager:</p>
 
-  <p>Copy code: python main.py</p>
+  <h3>Copy code: python main.py</h3>
 
 
 <h1>Usage:</h1>
@@ -55,6 +55,6 @@ When you exit the program (by selecting option 5), the current list of contacts 
 
 
 <h1>Note:</h1>
-<a>If the contacts.json file does not exist</a> <p>when you run the program for the first time, it will create an empty file to store the contacts.
+<h5><a>If the contacts.json file does not exist</a></h5> <p>when you run the program for the first time, it will create an empty file to store the contacts.
 Contributing
 Contributions to this project are welcome! If you find any issues or have improvements to suggest, feel free to create a pull request or open an issue on the GitHub repository.</p>
