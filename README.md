@@ -3,11 +3,11 @@
 Contact Manager:
 The Contact Manager is a simple Python program that allows users to manage a list of contacts. Users can add new contacts, view all contacts, delete contacts by name, search for contacts by name, and save the contacts to a JSON file. The program uses a Command-Line Interface (CLI) for interaction.
 
-Requirements:
+<h1>Requirements:</h1>\n
 Python 3.x
 colorama (for colored output in the terminal)
 
-Getting Started
+<h1>Getting Started</h1>\n
 1. Install Python:
     If you don't have Python installed, download and install the latest version of Python 3 from the official website: https://www.python.org/downloads/
 
@@ -20,7 +20,7 @@ Getting Started
 3.Clone the repository or download the files:
   Clone this repository to your local machine using Git:
 
- copy code: git clone https://github.com/yourusername/contact-manager.git
+ copy code: git clone https://github.com/marna4255/Phonebook_Python_oop_json.git
 
   Alternatively, you can download the ZIP file from the "Code" button on the repository's GitHub page and extract it to your desired location.
 
